@@ -1,0 +1,3 @@
+﻿  Hesfunkcija.cpp
+c:\users\smilj\desktop\faks\asp2 domaci\hesiranje\hesiranje\hesfunkcija.cpp(15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Hesiranje.vcxproj -> C:\Users\smilj\Desktop\faks\ASP2 domaci\Hesiranje\Debug\Hesiranje.exe
